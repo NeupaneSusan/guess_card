@@ -9,4 +9,34 @@ This is a simple memory-based card guessing game built with Flutter, utilizing t
 - **Responsive UI:** Works across multiple device sizes.
 - **Animations:** Smooth transitions for card flipping.
 
+ ## Setup
+
+1. **Clone the repository:**
+
+    ```bash
+    git clone https://github.com/yourusername/card_guessing_game.git
+    cd card_guessing_game
+    ```
+
+2. **Install dependencies:**
+
+    Make sure you have Flutter installed. Then run:
+
+    ```bash
+    flutter pub get
+    ```
+
+3. **Run the app:**
+
+    Use the following command to run the app:
+
+    ```bash
+    flutter run
+    ```
+
+4. **Access the game:**
+
+    The app will open in your connected device or emulator. You can play the game by following the on-screen instructions.
+
+
 
