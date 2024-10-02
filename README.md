@@ -1,16 +1,12 @@
-# silk_innovation_susan
+# Card Guessing Game in Flutter
 
-A new Flutter project.
+This is a simple memory-based card guessing game built with Flutter, utilizing the `provider` package for state management. The objective of the game is to flip cards and match pairs of cards by remembering their positions.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Memory Game:** Flip cards to find matching pairs.
+- **State Management:** Built using `provider` for managing game state.
+- **Responsive UI:** Works across multiple device sizes.
+- **Animations:** Smooth transitions for card flipping.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
