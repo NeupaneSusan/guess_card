@@ -14,7 +14,7 @@ This is a simple memory-based card guessing game built with Flutter, utilizing t
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/card_guessing_game.git
+    git clone https://github.com/NeupaneSusan/guess_card
     cd card_guessing_game
     ```
 
